@@ -1,0 +1,13 @@
+{
+  label = "Bong Mouthpiece",
+
+
+  lightLevel = 0,
+  emitRedstone = false,
+  buttonMode = false,
+  collidable = {true, true},
+  shapes = {
+    { 6, 0, 6, 10, 12, 10, texture = "prismarine_bricks"},
+    { 4, 11, 4, 12, 15, 12, texture = "prismarine_bricks"},
+  }
+}

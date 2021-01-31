@@ -1,0 +1,15 @@
+{
+  label = "Bong Base",
+
+  lightLevel = 0,
+  emitRedstone = false,
+  buttonMode = false,
+  collidable = {true, true},
+  shapes = {
+    { 0, 0, 0, 16, 2, 16, texture = "prismarine_bricks"},
+    { 2, 2, 2, 14, 4, 14, texture = "prismarine_bricks"},
+    { 4, 4, 4, 12, 6, 12, texture = "prismarine_bricks"},
+    { 2, 6, 2, 14, 16, 14, texture = "prismarine_bricks"},
+    { 0, 12, 7, 2, 14, 9, texture = "prismarine_bricks"},
+  }
+}

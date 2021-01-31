@@ -1,0 +1,31 @@
+{
+  label = "Donut Display 1",
+
+  lightLevel = 0,
+  emitRedstone = false,
+  buttonMode = false,
+  collidable = {true, true},
+  shapes = {
+    { 0, 0, 0, 16, 10, 2, texture = "glass" },
+    { 0, 10, 0, 16, 12, 12, texture = "glass" },
+    { 1, 0, 14, 6, 2, 16, texture = "concrete_pink" },
+    { 1, 0, 10, 6, 2, 12, texture = "concrete_pink" },
+    { 1, 0, 11, 3, 2, 14, texture = "concrete_pink" },
+    { 4, 0, 11, 6, 2, 14, texture = "concrete_pink" },
+
+    { 10, 0, 14, 15, 2, 16, texture = "concrete_brown" },
+    { 10, 0, 10, 15, 2, 12, texture = "concrete_brown" },
+    { 10, 0, 11, 12, 2, 14, texture = "concrete_brown" },
+    { 13, 0, 11, 15, 2, 14, texture = "concrete_brown" },
+
+    { 1, 0, 6, 6, 2, 8, texture = "sand" },
+    { 1, 0, 2, 6, 2, 4, texture = "sand" },
+    { 1, 0, 3, 3, 2, 6, texture = "sand" },
+    { 4, 0, 3, 6, 2, 6, texture = "sand" },
+
+    { 10, 0, 6, 15, 2, 8, texture = "snow" },
+    { 10, 0, 2, 15, 2, 4, texture = "snow" },
+    { 10, 0, 3, 12, 2, 6, texture = "snow" },
+    { 13, 0, 3, 15, 2, 6, texture = "snow" },
+  }
+}

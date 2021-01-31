@@ -1,0 +1,12 @@
+{
+  label = "Bong Stem",
+
+  lightLevel = 0,
+  emitRedstone = false,
+  buttonMode = false,
+  collidable = {true, true},
+  shapes = {
+    { 10, 12, 7, 16, 14, 9, texture = "prismarine_bricks"},
+    { 8, 14, 5, 14, 16, 11, texture = "prismarine_bricks"},
+  }
+}
